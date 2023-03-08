@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Agora temos todas as ferramentas necessárias para criar uma aplicação full stack e disponibilizá-la na nuvem e o objetivo desse exercício é justamente praticar o deploy.
+Agora temos todas as ferramentas necessárias para criar uma aplicação full stack e disponibilizá-la na nuvem e o objetivo desse exercício é justamente praticar o fluxo completo.
 
 ### Exercício 1
 
