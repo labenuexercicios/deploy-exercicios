@@ -19,6 +19,6 @@ Dica: cards são componentes naturalmente simples e não necessitam de muita est
 
 ### Exercício 3
 
-Agora que você tem uma aplicação Full Stack, faça o deploy delas.<br>
+Agora que você tem uma aplicação Full Stack, faça o deploy completo.<br>
 
 Dica: inicie pelo back-end para gerar o link da API e atualize o código do front-end antes de deployá-lo.
