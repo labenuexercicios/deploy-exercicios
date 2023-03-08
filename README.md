@@ -6,7 +6,7 @@ Agora temos todas as ferramentas necessárias para criar uma aplicação full st
 
 ### Exercício 1
 
-Crie uma API Express em até 15 minutos (simplifique o que você quiser). Ela precisa ter pelo menos um endpoint público e não é obrigatório criar endpoints protegidos. Deixe a aplicação em execução localmente por enquanto. <br>
+Crie uma API Express em até 30 minutos (simplifique o que você quiser). Ela precisa ter pelo menos um endpoint público e não é obrigatório criar endpoints protegidos. Deixe a aplicação em execução localmente por enquanto. <br>
 
 Dica: endpoints GET são mais rápidos de se implementar.
 
